@@ -1,25 +1,25 @@
 ### Hi there 👋
 
-<p>I'm Julie. I am a full stack software engineer and an angular fangirl, specializing in micro frontends. </p>
+<p>I'm Julie. I am a full stack software engineer and an angular fangirl, specializing in micro frontends. I am a former public school band director of 7 years. Needing a new challenge, I began to teach myself to code, and nine months later I became a full time dev. 💪🏻💪🏻💪🏻 </p>
 
 
 🔭 I’m currently working on a secret project using Angular, React Native, NestJS, and MongoDB. <br/>
 🌱 I’m currently learning NestJS. <br/>
 👯 I’m looking to collaborate on open source projects. <br/>
 💬 Ask me about **Module Federation** Check out my articles on dev.to <a href=https://dev.to/juliegladden>here!</a> <br/>
-⚡ Fun fact: I'm a jazz musician! 🎷🎶🎼 <br/>
+⚡ Fun fact: I'm a jazz musician! I play the flute | clarinet | saxophone | trumpet | piano | guitar 🎷🎶🎼 <br/>
 
-📔 Check out some of my blog posts!
+### 📔 Check out some of my blog posts!
 
 ✨ <a href="https://dev.to/juliegladden/angular-module-federation-and-remote-internal-routing-3mfg" target="_blank">Angular, Module Federation, and remote internal routing 🤯🤯🤯</a> <br/>
 ✨ <a href="https://dev.to/juliegladden/angular-rxjss-behavior-subject-38h9" target="_blank">Angular + RXJS Behavior Subject</a> <br/>
 ✨ <a href="https://dev.to/juliegladden/what-are-services-in-angular-and-how-in-the-world-do-i-use-them-51m9" target="_blank">What are services in Angular? And how in the world do I use them?</a> <br/>
 
 
-<h1>Skills</h1>
-<p align="center">
+### Here's some things I can do
+<p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,java,angular,react,azure,figma,bootstrap,firebase,git,mongodb,nestjs,nodejs,sass,webpack&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,java,angular,react,azure,figma,bootstrap,firebase,git,mongodb,nestjs,nodejs,sass,webpack&perline=10" />
   </a>
 </p>
 
