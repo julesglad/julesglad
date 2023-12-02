@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=julesglad&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=julesglad&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=julesglad&show_icons=true" />
-</picture>
+<p>I'm Julie. I am a full stack software engineer and an angular fangirl, specializing in micro frontends. </p>
+
+
+🔭 I’m currently working on a secret project using Angular, React Native, NestJS, and MongoDB. <br/>
+🌱 I’m currently learning NestJS. <br/>
+👯 I’m looking to collaborate on open source projects. <br/>
+💬 Ask me about **Module Federation** Check out my articles on dev.to <a href=https://dev.to/juliegladden>here!</a> <br/>
+⚡ Fun fact: I'm a jazz musician! 🎷🎶🎼 <br/>
+
+📔 Check out some of my blog posts!
+
+✨ <a href="https://dev.to/juliegladden/angular-module-federation-and-remote-internal-routing-3mfg" target="_blank">Angular, Module Federation, and remote internal routing 🤯🤯🤯</a> <br/>
+✨ <a href="https://dev.to/juliegladden/angular-rxjss-behavior-subject-38h9" target="_blank">Angular + RXJS Behavior Subject</a> <br/>
+✨ <a href="https://dev.to/juliegladden/what-are-services-in-angular-and-how-in-the-world-do-i-use-them-51m9" target="_blank">What are services in Angular? And how in the world do I use them?</a> <br/>
+
+
+<h1>Skills</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,java,angular,react,azure,figma,bootstrap,firebase,git,mongodb,nestjs,nodejs,sass,webpack&perline=8" />
+  </a>
+</p>
+
+
+
 
 <!--
 **julesglad/julesglad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +40,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
