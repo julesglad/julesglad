@@ -3,7 +3,7 @@
 <p>I'm Julie. I am a full stack software engineer and an angular fangirl, specializing in micro frontends. I am a former public school band director of 7 years. Needing a new challenge, I began to teach myself to code, and nine months later I became a full time dev. 💪🏻💪🏻💪🏻 </p>
 
 
-🔭 I’m currently working on a secret project using Angular, React Native, NestJS, and MongoDB. <br/>
+🔭 I’m currently working on a secret project using Angular, React Native, NestJS, and PostreSQL. <br/>
 🌱 I’m currently learning NestJS. <br/>
 👯 I’m looking to collaborate on open source projects. <br/>
 💬 Ask me about **Module Federation** Check out my articles on dev.to <a href=https://dev.to/juliegladden>here!</a> <br/>
