@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I'm Julie. I am a full stack software engineer and an angular fangirl, specializing in micro frontends. I am a former public school band director of 7 years. Needing a new challenge, I began to teach myself to code, and nine months later I became a full time dev. 💪🏻💪🏻💪🏻 </p>
+<p>I'm Julie. I am a full stack software engineer and an angular fangirl.  I love learning and new challenges. 💪🏻</p>
 
 
 🔭 I’m currently working on a secret project using Angular, React Native, NestJS, and PostreSQL. <br/>
